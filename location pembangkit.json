@@ -1,0 +1,1232 @@
+      {
+        "nama": "PLTA Tes",
+        "koordinat": "-3.199518,102.317349",
+        "lat": "-3.199518",
+        "lng": "102.317349",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "10",
+            "status": true
+          },
+          {
+            "nama": "co2",
+            "value": "33",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "35.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "46.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "47.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "45",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "35.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "47.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTA Musi",
+        "koordinat": "-3.616413,102.453855",
+        "lat": "-3.616413",
+        "lng": "102.453855",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "33.3",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "31.1",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "27",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "35.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "40.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTA Koto Panjang",
+        "koordinat": "0.295616,100.885438",
+        "lat": "0.295616",
+        "lng": "100.885438",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTA Seguling",
+        "koordinat": "-6.912373,107.366121",
+        "lat": "-6.912373",
+        "lng": "107.366121",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "32",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "34",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "44.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "41.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "45",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "43.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "67.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTA Gajah Mungkur",
+        "koordinat": "-7.837067,110.926237",
+        "lat": "-7.837067",
+        "lng": "110.926237",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTA Sempor",
+        "koordinat": "-7.568002,109.487446",
+        "lat": "-7.568002",
+        "lng": "109.487446",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTA Wadas Lintang",
+        "koordinat": "-7.609733, 109.779197",
+        "lat": "-7.609733",
+        "lng": "109.779197",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTA Selorejo",
+        "koordinat": "-7.8733444,112.3496301",
+        "lat": "-7.8733444",
+        "lng": "112.3496301",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTA Karangkates",
+        "koordinat": "-8.1595933,112.4441613",
+        "lat": "-8.1595933",
+        "lng": "112.4441613",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Embalut (PT. Cahaya Fajar Kaltim)",
+        "koordinat": "-0.3749245,117.0597194",
+        "lat": "-0.3749245",
+        "lng": "117.0597194",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },{
+        "nama": "PLTU Suralaya",
+        "koordinat": "-5.9720272,106.0826337",
+        "lat": "-5.972027",
+        "lng": "106.0826337",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Sumber Segara Primadaya",
+        "koordinat": "-7.6870648,109.0817507",
+        "lat": "-7.6870648",
+        "lng": "109.0817507",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Adipala",
+        "koordinat": "-7.6827251,109.1350508",
+        "lat": "-7.6827251",
+        "lng": "109.1350508",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Rembang",
+        "koordinat": "-6.6355086,111.4711115",
+        "lat": "-6.6355086",
+        "lng": "111.4711115",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Sudimoro Pacitan",
+        "koordinat": "-8.2580394,111.3715668",
+        "lat": "-8.2580394",
+        "lng": "111.3715668",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU PAITON",
+        "koordinat": "-7.7106931,110.2174949",
+        "lat": "-7.7106931",
+        "lng": "110.2174949",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Cikirang (UPT. Cikarang Listrindo)",
+        "koordinat": "-6.2888213,107.1195406",
+        "lat": "-6.2888213",
+        "lng": "107.1195406",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Tanjung Jati B",
+        "koordinat": "-6.4449282,110.7376691",
+        "lat": "-6.4449282",
+        "lng": "110.7376691",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Sibolga",
+        "koordinat": "1.7516253,98.728033",
+        "lat": "1.7516253",
+        "lng": "98.728033",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Jenopoto (PT. Bosowa Energi)",
+        "koordinat": "-5.6138627,119.5569063",
+        "lat": "-5.6138627",
+        "lng": "119.5569063",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTU Takalar 2x100MW",
+        "koordinat": "-5.6138199,119.5569063",
+        "lat": "-5.6138199",
+        "lng": "119.5569063",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PT. Indonesia Power UP Grati",
+        "koordinat": "-7.6497054,113.0252935",
+        "lat": "-7.6497054",
+        "lng": "113.0252935",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTGU Muara Tawar 2",
+        "koordinat": "-6.0875218,106.9978743",
+        "lat": "-6.0875218",
+        "lng": "106.9978743",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTGU Tanjung Batu",
+        "koordinat": "-0.3812239,117.0489732",
+        "lat": "-0.3812239",
+        "lng": "117.0489732",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTGU Priok",
+        "koordinat": "-6.1204603,106.8602961",
+        "lat": "-6.1204603",
+        "lng": "106.8602961",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTGU Sengkang Wajo",
+        "koordinat": "-4.1758256,120.0697199",
+        "lat": "-4.1758256",
+        "lng": "120.0697199",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTGU Jakabaring",
+        "koordinat": "-5.3531686,104.689518",
+        "lat": "-5.3531686",
+        "lng": "104.689518",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      },
+      {
+        "nama": "PLTGU Cilegon",
+        "koordinat": "-5.9024434,105.9884995",
+        "lat": "-5.9024434",
+        "lng": "105.9884995",
+        "parameter": [
+          {
+            "nama": "co",
+            "value": "30",
+            "status": false
+          },
+          {
+            "nama": "co2",
+            "value": "30",
+            "status": false
+          }, {
+
+            "nama": "nox",
+            "value": "31.9",
+            "status": false
+          }, {
+
+            "nama": "so2",
+            "value": "42.5",
+            "status": false
+          }, {
+            "nama": "o2",
+            "value": "44.3",
+            "status": false
+          }, {
+            "nama": "opacity",
+            "value": "95",
+            "status": false
+          }, {
+            "nama": "dash",
+            "value": "80.3",
+            "status": false
+          }, {
+            "nama": "flow",
+            "value": "90.5",
+            "status": false
+          }
+        ]
+      }
+    
